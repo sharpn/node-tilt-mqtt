@@ -13,8 +13,6 @@
     "typescript": "^3.1.1"
   },
   "dependencies": {
-    "bleacon": "^0.5.1",
-    "mqtt": "^2.18.8",
-    "request": "^2.88.0"
+    "bleacon": "^0.5.1"
   }
 }
